@@ -1,0 +1,14 @@
+{
+    "name": "zcfdvv/demo",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zx",
+            "email": "837577452@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
